@@ -6,7 +6,7 @@ settings:
 
 dependencies:
   '@nuxtwind/components':
-    specifier: ^1.0.0
+    specifier: latest
     version: 1.0.0
   nuxt:
     specifier: ^3.11.2
